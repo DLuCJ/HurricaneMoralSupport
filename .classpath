@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/dlu/Projects/Java/ClarkWeather/lib/c3p0-0.9.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/dlu/Projects/Java/ClarkWeather/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/dlu/Projects/Java/ClarkWeather/lib/google-voice-java-1.14-java6.jar"/>
+	<classpathentry kind="lib" path="/home/dlu/Projects/Java/ClarkWeather/lib/jaxen-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/dlu/Projects/Java/ClarkWeather/lib/json.jar"/>
+	<classpathentry kind="lib" path="/home/dlu/Projects/Java/ClarkWeather/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/home/dlu/Projects/Java/ClarkWeather/lib/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="/home/dlu/Projects/Java/ClarkWeather/lib/slf4j-log4j12-1.6.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,4 +1,4 @@
-# ClarkWeather
+# HurricaneMoralSupport
 
 Weekly text notifications for the weather  
 Requires google voice
